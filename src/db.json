@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "Vill du bli en Front End Developer",
+      "author": "Anonym",
+      "body": "Sök redan nu hos oss på KYH Stockholm",
+      "id": 1
+    },
+    {
+      "title": "Basketturnering nu i sommar",
+      "author": "Simon",
+      "body": "Vill du tillsammans med 4 andra vara med på basketturnering redan nu den 23e juni? Anmäl dig och ditt lag redan nu!",
+      "id": 2
+    },
+    {
+      "title": "KYH Stockholm",
+      "author": "Marcus",
+      "body": "TEEEEST",
+      "id": 3
+    }
+  ]
+}
